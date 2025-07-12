@@ -39,4 +39,5 @@ A lightweight Burp Suite extension written in Python (Jython) to detect potentia
 3. Go to **Extender → Extensions → Add**:
    - Extension type: `Python`
    - Extension file: `DomReflector.py`
-4. Check **Extender → Output** for:
+4. Check **Extender → Output** for:output
+
